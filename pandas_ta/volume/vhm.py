@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from statistics import pstdev
+from statistics import stdev
 from pandas import Series
 from pandas_ta._typing import DictLike, Int
 from pandas_ta.ma import ma
